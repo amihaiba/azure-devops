@@ -1,0 +1,5 @@
+/home/amihaiba/git/projects/azure-devops/out/azure-devops
+/home/amihaiba/git/projects/azure-devops/out/azure-devops.dll
+/home/amihaiba/git/projects/azure-devops/out/azure-devops.deps.json
+/home/amihaiba/git/projects/azure-devops/out/azure-devops.runtimeconfig.json
+/home/amihaiba/git/projects/azure-devops/out/azure-devops.pdb

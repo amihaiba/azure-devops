@@ -1,0 +1,15 @@
+/home/amihaiba/git/projects/azure-devops/bin/Release/net7.0/azure-devops
+/home/amihaiba/git/projects/azure-devops/bin/Release/net7.0/azure-devops.deps.json
+/home/amihaiba/git/projects/azure-devops/bin/Release/net7.0/azure-devops.runtimeconfig.json
+/home/amihaiba/git/projects/azure-devops/bin/Release/net7.0/azure-devops.dll
+/home/amihaiba/git/projects/azure-devops/bin/Release/net7.0/azure-devops.pdb
+/home/amihaiba/git/projects/azure-devops/obj/Release/net7.0/azure-devops.csproj.AssemblyReference.cache
+/home/amihaiba/git/projects/azure-devops/obj/Release/net7.0/azure-devops.GeneratedMSBuildEditorConfig.editorconfig
+/home/amihaiba/git/projects/azure-devops/obj/Release/net7.0/azure-devops.AssemblyInfoInputs.cache
+/home/amihaiba/git/projects/azure-devops/obj/Release/net7.0/azure-devops.AssemblyInfo.cs
+/home/amihaiba/git/projects/azure-devops/obj/Release/net7.0/azure-devops.csproj.CoreCompileInputs.cache
+/home/amihaiba/git/projects/azure-devops/obj/Release/net7.0/azure-devops.dll
+/home/amihaiba/git/projects/azure-devops/obj/Release/net7.0/refint/azure-devops.dll
+/home/amihaiba/git/projects/azure-devops/obj/Release/net7.0/azure-devops.pdb
+/home/amihaiba/git/projects/azure-devops/obj/Release/net7.0/azure-devops.genruntimeconfig.cache
+/home/amihaiba/git/projects/azure-devops/obj/Release/net7.0/ref/azure-devops.dll
