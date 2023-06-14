@@ -6,9 +6,9 @@
 trigger:
 - master
 
-# pool:
+pool:
 #   vmImage: windows-latest
-
+  name: Default
 steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
